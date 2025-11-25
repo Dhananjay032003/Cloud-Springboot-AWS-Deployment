@@ -23,4 +23,20 @@ This project demonstrates end-to-end deployment of a Spring Boot application on 
 
 ## 🏁 Outcome
 Deployment was successful, enabling global scalable access and practical DevOps cloud experience.
+---
+
+## 🖼 Project Architecture Diagram
+
+![Architecture Diagram](1763721548459.jpeg)
+
+---
+
+## 📸 Screenshots
+
+### 🔹 AWS RDS Connectivity Screenshot
+![RDS Screenshot](1763721595876.jpeg)
+
+### 🔹 Application UI (Add Student Page)
+![Add Student UI](1763721638530.jpeg)
+
 
